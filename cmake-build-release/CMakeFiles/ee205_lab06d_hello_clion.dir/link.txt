@@ -1,1 +1,1 @@
-/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o -o ee205_lab06d_hello_clion 
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o -o ee205_lab06d_hello_clion 
